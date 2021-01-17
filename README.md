@@ -8,8 +8,8 @@ UI Clone - Google (Homepage)
 <hr>
 
 ## Ideia e Vídeo de:
-<p align="center">[Homepage do Google com HTML & CSS|UI Clone #15](https://www.youtube.com/watch?v=KgjzE1Sxtq0)</p>
-<p align="center">[Guilherme Rodz](https://github.com/guilhermerodz)</p>
+<p>[Homepage do Google com HTML & CSS|UI Clone #15](https://www.youtube.com/watch?v=KgjzE1Sxtq0)</p>
+<p>[Guilherme Rodz](https://github.com/guilhermerodz)</p>
 
 ## Resources
 
