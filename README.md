@@ -4,7 +4,7 @@ UI Clone - Google (Homepage)
 
 <p align="center"><a href="https://google.com">Google Homepage</a> UI clone for study purposes.</p>
 <p align="center">Made only with HTML5 and CSS3. Wait for updates to features with JavaScript!!</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
+<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist of UI Clones by <a href="https://www.rocketseat.com.br">Rocketseat</a>.</p>
 
 <hr>
 
